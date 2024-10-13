@@ -18,7 +18,7 @@ Implementar la funcionalidad de Registro de Usuarios y Login al proyecto creado 
   que corresponde a una heladería ubicada en la ciudad de Quito, en el sector de Las Casas.
 
 # Vista de la Página Principal:
-![Imagen](https://github.com/DeividN21/Prototipo1_Videojuego/blob/main/VG_P1.png?raw=true)
+![Imagen](https://raw.githubusercontent.com/DeividN21/Tarea2_LOGIN/81a8ccde0b42158aa402e355e5099b39d8ec4b01/Captura%20de%20pantalla%202024-10-12%20200103.png)
 
 # Instrucciones para Navegar por la Página
 ### Primero:
