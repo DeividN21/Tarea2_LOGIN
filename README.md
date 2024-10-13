@@ -9,7 +9,7 @@ Implementar la funcionalidad de Registro de Usuarios y Login al proyecto creado 
 - Además, cabe recalcar que se implementó un método de cifrado como alternativa de seguridad dentro de la información que se ingresa al momento de crear una nueva cuenta.
 - Así también, se insertó un control para que usuarios no identificados o "no logueados" no tengan la capacidad de ingresar dentro de los otros módulos de la página.
 - Finalmente, es importante recalcar que se han realizado verificaciones de campos vacíos y controles en las contraseñas para que exista un mayor control.
-- 
+  
 ### Framework empleado:
 - Se utiliza Django como framework para el desarrollo web.
 
